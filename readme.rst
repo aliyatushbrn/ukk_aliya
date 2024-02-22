@@ -9,10 +9,13 @@ Persiapan Installasi :
 ************
 * Instalasi Php versi PHP 8.2.4 (cli)
 <https://www.php.net/downloads>`.
+
 * Instalasi Codeigniter 3 (opsional)
 <https://codeigniter.com/download>`.
+
 * Instalasi Visual Studio Code
 <https://code.visualstudio.com/download>`.
+
 *Instalasi Xampp 
 <https://www.apachefriends.org/download.html>`.
 
