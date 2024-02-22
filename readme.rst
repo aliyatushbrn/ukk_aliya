@@ -4,8 +4,10 @@ Aplikasi Kasir dengan bahasa pemrograman PHP dan Framework Codeigniter 3
 Deskripsi :
 Aplikasi Kasir berbasis web yang bertujuan untuk mengelola stok barang,transaksi,dan progres penjualan
 
+************
 Persiapan Installasi :
-* Instalasi Php
+************
+* Instalasi Php versi PHP 8.2.4 (cli)
 <https://www.php.net/downloads>`.
 * Instalasi Codeigniter 3 (opsional)
 <https://codeigniter.com/download>`.
