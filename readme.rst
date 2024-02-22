@@ -1,31 +1,18 @@
 
-Aplikasi Kasir dengan Codeigniter 3
+Aplikasi Kasir dengan bahasa pemrograman PHP dan Framework Codeigniter 3
 
 Deskripsi :
 Aplikasi Kasir berbasis web yang bertujuan untuk mengelola stok barang,transaksi,dan progres penjualan
 
-******************
-Instalasi Codeigniter
-*******************
-Untuk mengunduh rilis stabil terbaru silakan kunjungi `Unduhan CodeIgniter
+Persiapan Installasi :
+* Instalasi Php
+<https://www.php.net/downloads>`.
+* Instalasi Codeigniter 3 (opsional)
 <https://codeigniter.com/download>`.
-
-**************************
-Changelog and New Features
-**************************
-
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
-
-*******************
-Server Requirements
-*******************
-
-PHP version 5.6 or newer is recommended.
-
-It should work on 5.3.7 as well, but we strongly advise you NOT to run
-such old versions of PHP, because of potential security and performance
-issues, as well as missing features.
+* Instalasi Visual Studio Code
+<https://code.visualstudio.com/download>`.
+*Instalasi Xampp 
+<https://www.apachefriends.org/download.html>`.
 
 ************
 Installation
