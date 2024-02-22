@@ -16,22 +16,22 @@ Persiapan Installasi :
 * Instalasi Visual Studio Code
 <https://code.visualstudio.com/download>`.
 
-* Instalasi Xampp 
+* Instalasi Xampp :
 
 <https://www.apachefriends.org/download.html>`.
 
 
-Persiapan Projek
+Persiapan Projek :
 
 Setelah folder di download,selanjutnya exstract folder. Pindahkan folder dari folder download ke folder C:\xampp\htdocs .
 Setelah instalasi Xampp, silahkan start Apache dan Mysql nya.
 
 
-Persiapan Database
+Persiapan Database :
 
 Buat Database baru dengan nama yang sama, yaitu "kasir_aliya_(1)" (bisa diganti nanti), import database kasir_aliya_(1).
 
 
-Persiapan Tampilan Web
+Persiapan Tampilan Web :
 
 Buka halaman Chrome. Untuk mengakses folder ketik "localhost/kasir_al" (localhost/nama_folder_apk) setelah itu akan ada tampilan landing page.
