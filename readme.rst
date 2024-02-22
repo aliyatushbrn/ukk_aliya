@@ -16,7 +16,7 @@ Persiapan Installasi :
 * Instalasi Visual Studio Code
 <https://code.visualstudio.com/download>`.
 
-*Instalasi Xampp 
+* Instalasi Xampp 
 
 <https://www.apachefriends.org/download.html>`.
 
